@@ -11,5 +11,7 @@ int main(){
     fgets(str,sizeof(str),stdin);
     printf("%s",str);
     //if else, while, for
+    int _Var;
+    //we can't use keywords to create variables
 }
 //
